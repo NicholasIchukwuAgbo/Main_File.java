@@ -1,4 +1,4 @@
-jimport java.util.Scanner;
+import java.util.Scanner;
 
 public class TwoSquare{
  
